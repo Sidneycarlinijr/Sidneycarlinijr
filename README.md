@@ -8,8 +8,8 @@ https://diylofi.com - Do It Yourself LoFi<br>
 https://marcadordetruco.com.br - online Brazilian cards game marker 
 
 <h4>BIO</h4>
-⚡Daily using: React, React Native, Redux, Node, Express, TailwindCSS, Bootstrap <br>
-🌱 I’m currently learning: Figma <br>
+⚡ Daily using: React, React Native, Redux, Node, Express, TailwindCSS, Bootstrap <br>
+🌱 Currently learning: Figma <br>
 📫 How to reach me: https://www.linkedin.com/in/sidney-carlini/
 <!--
 **Sidneycarlinijr/Sidneycarlinijr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
