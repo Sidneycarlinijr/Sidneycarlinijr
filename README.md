@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h5>I'm a Full-Stack Developer working on SZ Soluções, Joinville, Brazil</h5>
+<h5>I'm a Full-Stack Developer working at SZ Soluções, Joinville, Brazil</h5>
 
 <h4>Now</h4>
 
