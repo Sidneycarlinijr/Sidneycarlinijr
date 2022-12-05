@@ -5,7 +5,7 @@
 <h4>Now</h4>
 
 Working on my two SaaS:<br>
-<a href="https://marcadordetruco.com.br">Truco Marker</a> <br>
+<a href="https://marcadordetruco.com.br">Truco Scorer</a> <br>
 <a href="https://diylofi.com">Do It Yourself LoFi</a>
 
 
