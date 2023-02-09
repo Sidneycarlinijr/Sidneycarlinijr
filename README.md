@@ -12,7 +12,7 @@ Working on my creations:<br>
 <h4>Bio</h4>
 
 ⚡ Daily using: React, React Native, Redux, Node, Express, TailwindCSS, Bootstrap <br>
-🌱 Currently learning: Figma, NextJS, CSSModules <br>
+🌱 Currently learning: Figma, NextJS, Styled Components <br>
 
 <h4>Reach Me</h4>
 📫 <a href="https://www.linkedin.com/in/sidney-carlini/">LinkedIn</a>
