@@ -6,7 +6,7 @@
 
 Working on my creations:<br>
 <a href="https://diylofi.com">Do It Yourself LoFi</a> <br>
-<a href="https://marcadordetruco.com.br">Truco Scorer</a> <br>
+<a href="https://marcadordetruco.com.br">Truco Scorer</a> (New version under development: [Repo](https://github.com/Sidneycarlinijr/marcadortruco2))<br>
 
 
 <h4>Bio</h4>
