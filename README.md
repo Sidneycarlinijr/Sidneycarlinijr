@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h5>Eu sei escrever lenght</h5>
+<h5>Eu sei escrever lenght... length! </h5>
 
 <h5>I'm a Full-Stack Developer working at SZ Soluções, Joinville, Brazil</h5>
 
