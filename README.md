@@ -2,7 +2,7 @@
 
 <h5>Eu sei escrever lenght... length! </h5>
 
-<h5>I'm a Full-Stack Developer working at SZ Soluções, Joinville, Brazil</h5>
+<h5>I'm a Full-Stack Developer working at Instivo Retail Tech, Remote</h5>
 
 <h4>Now</h4>
 
@@ -13,7 +13,7 @@ Working on my creations:<br>
 
 <h4>Bio</h4>
 
-⚡ Daily using: React, React Native, Redux, Node, Express, TailwindCSS, Bootstrap <br>
+⚡ Daily using: NextJS, React, React Native, Redux Toolkit, Node, Express, TailwindCSS, Bootstrap <br>
 🌱 Currently learning: Figma, Typescript, NextJS, Styled Components <br>
 
 <h4>Reach Me</h4>
