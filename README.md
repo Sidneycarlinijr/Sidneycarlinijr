@@ -8,13 +8,13 @@
 
 Working on my creations:<br>
 <a href="https://diylofi.com">Do It Yourself LoFi</a> <br>
-<a href="https://marcadordetruco.com.br">Truco Scorer</a> (New version under development: [Repo](https://github.com/Sidneycarlinijr/marcadortruco2))<br>
+<a href="https://marcadordetruco.com.br">Truco Scorer</a> <br>
 
 
 <h4>Bio</h4>
 
-⚡ Daily using: NextJS, React, React Native, Redux Toolkit, Node, Express, TailwindCSS, Bootstrap <br>
-🌱 Currently learning: Figma, Typescript, NextJS, Styled Components <br>
+⚡ Daily using: NextJS, Typescript, React, React Native, Redux Toolkit, Node, Express, TailwindCSS, Bootstrap <br>
+🌱 Currently learning: Figma, NextJS, Styled Components <br>
 
 <h4>Reach Me</h4>
 📫 <a href="https://www.linkedin.com/in/sidney-carlini/">LinkedIn</a>
