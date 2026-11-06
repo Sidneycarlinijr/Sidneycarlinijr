@@ -4,11 +4,6 @@
 
 <h5>I'm a Full-Stack Developer working at PX-CENTER, Joinville/SC Brazil</h5>
 
-<h4>Now</h4>
-
-Working on my creations:<br>
-<a href="https://marcadordetruco.com.br">Truco Scorer</a> <br>
-
 
 <h4>Bio</h4>
 
